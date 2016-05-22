@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "classmap": [
+      "Animal.php",
+      "Cat.php"
+    ]
+  }
+}
